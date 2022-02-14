@@ -16,5 +16,5 @@
 </p>
 <br>
   <p align="center">
-    <b><a href="https://github.com/hychat-mc/hychat/issues">Click to learn more</a></b>
+    <b><a href="https://github.com/hychat-mc/hychat">Click to learn more</a></b>
   </p>
